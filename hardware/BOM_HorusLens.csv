@@ -1,0 +1,11 @@
+Component,Specification,Qty,Recommended Source/Notes
+Lens 1,Acrylic or glass, 90mm diameter,1,Optical-grade acrylic (e.g. Edmund Optics or Thorlabs)
+Lens 2,Acrylic or glass, 60mm diameter,1,Can be CNC-cut or laser-formed
+Lens 3,Acrylic or glass, 30mm diameter,1,Small plano-convex or custom disc
+Lens Spacers,PTFE or nylon, tuned separation based on focal length,3,Use variable threaded spacers or shims
+Support Frame,Aluminum or 3D-printed PLA,1,Circular mounting frame with vertical supports
+Alignment Jig,Laser-cut acrylic or wood,1,Used to verify beam convergence during assembly
+Focal Target,Photoresistor or thermal sensor,1,Optional: place at convergence point to test lock
+Anti-reflective Coating,Nano-AR spray or film,3,Apply to lenses if indoor laser testing used
+Mounting Base,Flat aluminum plate or optical rail,1,Base plate for lens stack alignment
+Waveform Input Marker,Beam alignment LED or low-power test laser,1,Safe visible indicator for setup
