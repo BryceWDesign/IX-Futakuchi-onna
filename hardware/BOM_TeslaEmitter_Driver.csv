@@ -1,0 +1,11 @@
+Component,Specification,Qty,Recommended Part Number,Notes
+Class D Amplifier Board,TPA3116D2 Dual 50W,1,TPA3116D2-50Wx2,Supports analog input modulation
+Audio Transformer,1:10 audio isolation coil,1,Triad TY-141P or Edcor WSM10K/1K,Used for galvanic isolation
+Tesla Coil (Air Core),10-15 turns, 3” dia PVC,1,Custom wound,Use magnet wire AWG 22–26
+Topload Capacitor,Toroid or sphere, 100–300pF equiv.,1,Aluminum dryer duct (DIY) or spun aluminum toroid,Used to stabilize resonant field
+3.5mm Audio Jack,Panel mount, stereo TRS,1,CUI SJ1-3533N,For analog signal input from DAC or Pi
+DC Power Supply,24–36V @ 5A+,1,MeanWell LRS-350-24 or equivalent,Drives amplifier and coil safely
+Cooling Fan,40mm or 60mm brushless,1,Noctua or Delta FFB0412VHN,Recommended for thermal stability
+Base Ground Plane,Heavy gauge copper or braid strap,1,N/A,Connect to bottom of secondary coil
+Faraday Shield,Aluminum mesh or copper braid,1,Custom,For EMI compliance and safety
+Standoff Insulators,Ceramic or PTFE >1kV rated,4+,Custom,Mounts coil safely to chassis
