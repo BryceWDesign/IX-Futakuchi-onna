@@ -6,7 +6,8 @@ This directory contains all real-world, buildable hardware schematics and mechan
 
 ## 🧩 Diagram: System Hardware Overview
 
-![Hardware Overview Diagram](./IX-Futakuchi-onna_Hardware_Overview.png)
+![Hardware Overview Diagram](https://github.com/BryceWDesign/IX-Futakuchi-onna/blob/main/IX-Futakuchi-onna_Hardware_Overview.png?raw=true)
+
 
 This diagram maps all physical and electronic layers of the system, including:
 
